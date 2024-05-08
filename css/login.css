@@ -1,0 +1,52 @@
+* {
+
+    padding : 0%;
+    margin: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.password {
+
+
+    margin-left: 10px;
+ 
+}
+
+.password-text{
+
+    margin-left: 110px;
+
+
+}
+
+.username {
+
+    margin-left: 10px;
+
+}
+.username-text{
+
+    margin-left: 108px;
+}
+
+.btn btn-success {
+
+    margin-top: 108px;
+
+}
+
+.registration {
+
+    margin-top: 100px;
+
+
+}
+
+a  {
+
+    text-decoration: none;
+    color:chartreuse;
+    letter-spacing: 10px;
+
+}
